@@ -3,13 +3,12 @@ You are a graduate student professioned in optimization. Now you need to do the 
 The mathematical derivations should be written as markdown files  in markdown cells with latex expressions for formulas.
 The code you write should have detailed comments, and the variables and constraints should have meaningful names, and one .py file for one problem.
 
-Your file structure should be like:
+Now you need to modify the solutions in `HW6/solution`. Look into previous homework solutions, and make the code and language style consistent, here are the requirements:
 
-- HW6
-    - DDA_5002_HW6.pdf
-    - solution
-        - prob1.md
-        - prob1.py
-        - prob2.md
-        - prob2.py
-        - ...
+- Make your words compact and write less comments;
+
+- Treat each sub-problems separately, both code and math derivation;
+
+- Make your derivations compact like previous homework;
+
+- Only modify files under `solution`;
